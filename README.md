@@ -1,2 +1,7 @@
 # Ecommers-Sales-Data
-1.Removeing null values 2.Using median &amp;average
+Used power query
+removeig null values and 
+applied statistical methods
+applied vlookup function
+Designed pivort chart to visualliy represent
+Dashboar creation
